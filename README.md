@@ -2,7 +2,7 @@
 <h3 align="center">A Dedicated Business Application Developer from Bangladesh</h3>
 <p align="center">As a committed business application developer based in Bangladesh, I specialise in designing and implementing robust software solutions tailored to meet the unique needs of businesses. My expertise spans various programming languages and frameworks, enabling me to deliver high-quality applications that drive operational efficiency and innovation. With a keen eye for detail and a passion for continuous learning, I am dedicated to advancing my skills and contributing to the success of the organisations I work with.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ictlayer&label=Profile%20views&color=0e75b6&style=flat" alt="ictlayer" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ictlayer&label=Profile%20views&color=0e75b6&style=flat" alt="ictlayer" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ictlayer" alt="ictlayer" /></a> </p>
 
