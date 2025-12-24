@@ -3,9 +3,6 @@
 <p align="center">As a committed business application developer based in Bangladesh, I specialise in designing and implementing robust software solutions tailored to meet the unique needs of businesses. My expertise spans various programming languages and frameworks, enabling me to deliver high-quality applications that drive operational efficiency and innovation. With a keen eye for detail and a passion for continuous learning, I am dedicated to advancing my skills and contributing to the success of the organisations I work with.</p>
 
 <p align="left"> <img src="https://www.ictlayer.com/logo-light.png" alt="ictlayer" />
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ictlayer" alt="ictlayer" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ictlayer" target="blank"><img src="https://img.shields.io/twitter/follow/ictlayer?logo=twitter&style=for-the-badge" alt="ictlayer" /></a> </p>
 
 - 🔭 I’m currently working on [Zero-Dependency experience for easy scaffolding and serverless CMS.](https://github.com/Made-With-Nuxtjs)
