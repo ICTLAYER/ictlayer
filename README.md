@@ -37,21 +37,6 @@ I specialize in designing and implementing **robust software solutions** tailore
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ICTLAYER&show_icons=true&theme=radical" alt="Asif's Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICTLAYER&layout=compact&theme=radical" alt="Top Languages" height="170" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ICTLAYER&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
 ### 🌐 Connect with me
 <p align="center">
   <a href="https://x.com/ictlayer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
